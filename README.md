@@ -38,7 +38,7 @@ custome config
 }
 ```
 
-## 0x05 local://safe.life
+## 0x05 local://save.life
 
 ```bash
 # .bashrc or .zshrc
