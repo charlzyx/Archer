@@ -1,0 +1,14 @@
+{
+    "name": "archer",
+    "description": "archer cloud",
+    "env": {
+        "METHOD": {
+            "description": "加密算法",
+            "value": "aes-256-cfb"
+        },
+        "KEY": {
+            "description": "password",
+            "value": ""
+        }
+    }
+}
