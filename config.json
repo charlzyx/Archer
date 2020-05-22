@@ -1,0 +1,10 @@
+{
+    "server": "archer.herokuapp.com",
+    "local_address": "0.0.0.0",
+    "scheme": "ws",
+    "local_port": "1087",
+    "remote_port": "80",
+    "password": "trace_on",
+    "timeout": 600,
+    "method": "aes-256-cfb"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "archer",
+    "version": "1.0.0",
+    "description": "一支穿云箭, 千军万马来相见",
+    "dependencies": {
+        "minimist": "^1.2.0",
+        "https-proxy-agent": "^3.0.1",
+        "ws": "^7.2.0"
+    },
+    "scripts": {
+        "start": "node server.js -b 0.0.0.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
