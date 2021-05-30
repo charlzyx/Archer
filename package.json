@@ -5,7 +5,7 @@
     "dependencies": {
         "minimist": "^1.2.0",
         "https-proxy-agent": "^3.0.1",
-        "ws": "^7.2.0"
+        "ws": "^7.4.6"
     },
     "scripts": {
         "start": "node server.js -b 0.0.0.0"
